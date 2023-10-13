@@ -41,6 +41,9 @@ int main()
     // }
     // cout << "\nbye\n";
     
-    cout << differentiate(input);
+    cout << differentiate(input) << endl;
+
+    // Hold window
+    cin.get();
 	return 0;
 }
